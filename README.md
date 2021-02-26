@@ -4,6 +4,8 @@
 
 Test python package for individual assignment 1
 
+Link to test.pypi: https://test.pypi.org/project/dsci-524-pytest/
+
 ## Installation
 
 ```bash
